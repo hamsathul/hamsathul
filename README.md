@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Hamsathul Haris</h1>
-<h3 align="center">✈️ Aeronautical Engineer turned Tech Enthusiast 🚀 | Entrepreneur 💼 | Code Ninja 🖥️ | Always Learning, Always Coding 🌟</h3>
+<h3 align="center">✈️ Aeronautical Engineer turned Tech Enthusiast 🚀 | Entrepreneur 💼 | Student @ 42 Abudhabi | Always Learning, Always Coding 🌟</h3>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
