@@ -6,7 +6,6 @@
 <h3 align="center">AI Solutions Architect & Full Stack Developer</h3>
 <p align="center">
   <strong>Abu Dhabi, UAE</strong> | 
-  <a href="mailto:hamsathul@gmail.com">hamsathul@gmail.com</a> | 
   <a href="https://www.hamsathul.com">www.hamsathul.com</a>
 </p>
 
@@ -217,9 +216,7 @@ Leading architecture design for MVPs and enterprise applications, working direct
   <a href="https://www.hamsathul.com">
     <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website"/>
   </a>
-  <a href="mailto:hamsathul@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+
 
 </p>
 
