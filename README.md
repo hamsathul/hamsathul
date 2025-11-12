@@ -194,7 +194,7 @@ Leading architecture design for MVPs and enterprise applications, working direct
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-3og1o0t1k-hamsathuls-projects.vercel.app/api?username=hamsathul&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-zeta-95.vercel.app/api?username=hamsathul&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -202,7 +202,7 @@ Leading architecture design for MVPs and enterprise applications, working direct
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-3og1o0t1k-hamsathuls-projects.vercel.app/api/top-langs?username=hamsathul&show_icons=true&count_private=true&include_all_commits=true&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-zeta-95.vercel.app/api/top-langs?username=hamsathul&show_icons=true&count_private=true&include_all_commits=true&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" />
 </p>
 
 ---
