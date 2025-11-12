@@ -210,7 +210,7 @@ Leading architecture design for MVPs and enterprise applications, working direct
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/hamsathul-haris-kunnamkulathingal-516a08287">
+  <a href="https://linkedin.com/in/hamsathul-haris-516a08287">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.hamsathul.com">
