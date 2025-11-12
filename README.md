@@ -224,7 +224,6 @@ Leading architecture design for MVPs and enterprise applications, working direct
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamsathul&theme=radical" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamsathul&theme=radical" alt="Stats Overview" />
 </p>
 
 ---
