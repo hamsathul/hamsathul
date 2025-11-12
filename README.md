@@ -2,7 +2,7 @@
   <img width="460" height="300" src="https://github.com/hamsathul/hamsathul/blob/main/pixels-neon.gif">
 </p>
 
-<h1 align="center">Hi 👋, I'm Hamsathul Haris K</h1>
+<h1 align="center">Hi 👋, I'm Hamsathul Haris</h1>
 <h3 align="center">AI Solutions Architect & Full Stack Developer</h3>
 <p align="center">
   <strong>Abu Dhabi, UAE</strong> | 
