@@ -194,15 +194,37 @@ Leading architecture design for MVPs and enterprise applications, working direct
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-zeta-95.vercel.app/api?username=hamsathul&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-zeta-95.vercel.app/api?username=hamsathul&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&v=2" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamsathul&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamsathul&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-zeta-95.vercel.app/api/top-langs?username=hamsathul&show_icons=true&count_private=true&include_all_commits=true&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&layout=compact&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-zeta-95.vercel.app/api/top-langs?username=hamsathul&show_icons=true&count_private=true&include_all_commits=true&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&layout=compact&v=2" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hamsathul&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamsathul&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamsathul&theme=radical" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamsathul&theme=radical&utcOffset=4" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamsathul&theme=radical" alt="Repos per Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamsathul&theme=radical" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamsathul&theme=radical" alt="Stats Overview" />
 </p>
 
 ---
